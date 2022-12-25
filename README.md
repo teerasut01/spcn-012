@@ -1,5 +1,5 @@
 # SPCN-012
-1. Hypervisor Technology
+-1. Hypervisor Technology-
 -คือเทคนิคการจำลองให้ระบบปฏิบัติการหลายระบบสามารถทำงานพร้อมกันบนโฮสต์ได้ ใช้ประโยชน์ได้สูงสุด จำลองระบบปัฏิบัติการ แบบมัลติคอร์มัลติเธรด และ Ram จำนวนมาก เหมาะสำหรับเมนเฟรมมากกว่า windown OS เพราะ Hypervisor-
 -Hypervisor (ไฮเปอร์ไวเซอร์) มีกี่ประเภท
 hypervisor มีกี่ประเภท? หลายคนอาจสงสัยกันอยู่ โดยส่วนมากแล้ว Hypervisor จะมีอยู่ด้วยกัน 2 ประเภท ได้แก่ Type 1 hypervisor (Baremetal Architectur) และ Type 2 hypervisor (Hosted Architecture)
